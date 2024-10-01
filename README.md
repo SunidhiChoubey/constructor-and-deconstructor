@@ -263,7 +263,15 @@ int main()
 }
 
 ~~~
-## Output
+## Output-
+![](https://github.com/SunidhiChoubey/constructor-and-deconstructor/blob/main/Screenshot%202024-10-01%20010526.png)
+![](https://github.com/SunidhiChoubey/constructor-and-deconstructor/blob/main/Screenshot%202024-10-01%20010456.png)
+![](https://github.com/SunidhiChoubey/constructor-and-deconstructor/blob/main/Screenshot%202024-10-01%20010425.png)
+![](https://github.com/SunidhiChoubey/constructor-and-deconstructor/blob/main/Screenshot%202024-10-01%20010348.png)
+![](https://github.com/SunidhiChoubey/constructor-and-deconstructor/blob/main/Screenshot%202024-10-01%20010147.png)
+![](https://github.com/SunidhiChoubey/constructor-and-deconstructor/blob/main/Screenshot%202024-10-01%20004635.png)
+
+## Conclusion- we learnt the concept of constructors and deconstructors
 
 
 
